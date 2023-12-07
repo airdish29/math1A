@@ -4,5 +4,11 @@ theme: just-the-docs
 
 url: https://airdish29.github.io/math1A/
 
-# aux_links:
+aux_links:
 #   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+    Exam Archive: https://tbp.berkeley.edu/courses/math/1A/
+    Anonymous Feedback: https://forms.gle/DTNqWCbgVoZRFH1cA/
+
+aux_links_new_tab: true
+source: "docs"
+
