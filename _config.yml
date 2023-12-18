@@ -12,3 +12,8 @@ aux_links:
 aux_links_new_tab: true
 source: "docs"
 
+# callouts_level: quiet
+callouts:
+  keywords:
+    title: Keywords
+    color: yellow

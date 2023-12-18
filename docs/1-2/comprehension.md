@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Comprehension Problems"
-parent: "Section 2.1: The Tangent and Velocity Problems"
+parent: "Section 1.2: Mathematical Models"
 nav_order: 2
 ---
 # Comprehension Problems

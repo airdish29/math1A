@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Section 2.2: The Limit of a Function"
+title: "Section 2.3: Calculating Limits Using the Limit Laws"
 has_children: true
 ---
 # The Limit of a Function
